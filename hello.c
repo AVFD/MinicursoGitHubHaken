@@ -2,7 +2,10 @@
 
 int main(){
 
-	printf ("\nHELLO WORLD\n");
+	int year=2016, x;
+	printf ("Seu idade: ");
+	scanf ("%d", &x);
+	printf ("\nVocê nasceu em: %d\n", year-x);
 	
 return 0;
 }

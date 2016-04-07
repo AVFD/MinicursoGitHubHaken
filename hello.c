@@ -6,6 +6,7 @@ int main(){
 	printf ("Seu idade: ");
 	scanf ("%d", &x);
 	printf ("\nVocê nasceu no ano de: %d\n", year-x);
+	printf("auishajn");
 	
 return 0;
 }
